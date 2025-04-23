@@ -25,7 +25,4 @@ This project automates an end-to-end workflow on https://www.saucedemo.com using
 - TestNG plugin (for IDE)
 - ChromeDriver in system PATH
 
-## How to Run
 
-```bash
-mvn clean test
